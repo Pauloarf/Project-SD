@@ -44,3 +44,7 @@ The goal is to master **distributed systems fundamentals** by building a robust 
 - **Concurrency**: `java.util.concurrent`, thread pools  
 - **Networking**: TCP sockets
 - **Benchmarking**: Custom YCSB-inspired client for stress testing
+
+## Final Grade
+
+15/20
